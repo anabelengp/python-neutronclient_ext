@@ -1,0 +1,14 @@
+*.pyc
+*.swp
+*.sqlite3
+.environment_version
+.selenium_log
+.coverage*
+.noseids
+.DS_STORE
+coverage.xml
+nosetests.xml
+pep8.txt
+pylint.txt
+reports
+*.egg*
