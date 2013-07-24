@@ -3,9 +3,10 @@ python-neutronclient_ext
 
 This is an example about how to extend neutron client. It allows using the same command for the extended features along with the usual neutron options.
 
-This extension is autodiscovered once installed. To use:
+This extension is autodiscovered once installed. To use (development mode):
 
-    pip install python_openappsclient
+    git clone https://github.com/anabelengp/python-neutronclient_ext.git
+    pip install -e python_openappsclient
     neutron zzz
 
 To use it inside horizon (from python):
