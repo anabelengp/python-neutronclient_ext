@@ -20,7 +20,7 @@ setuptools.setup(
     version="0.0.1",
     author="anabelengp",
     author_email="anabelengp@gmail.com",
-    url="https://github.com/anabelengp/python_neutronclient_ext.git",
+    url="https://github.com/anabelengp/python-neutronclient_ext.git",
     description="Neutron client extension example",
     license="",
     packages=["neutronclient_ext"],
